@@ -6,3 +6,8 @@ SocialConnect é uma plataforma de rede social que permite aos usuários criar p
 * Git
 * GitHub
 * Css
+## Integrantes do grupo:
+* Enzo Fatobene
+* João Victor Mattos
+* Paulo Henrique
+* Pedro Abreu
